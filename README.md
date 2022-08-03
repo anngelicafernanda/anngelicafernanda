@@ -11,13 +11,11 @@
 
 - 💬 Pregúntame sobre **CSS, Metodologías Agiles, Habilidades blandas, documentación de proyectos, javascript, html.**
 
-- 🤝 Estoy buscando ayuda con [Burguer Queen](https://github.com/anngelicafernanda/SCL020-burger-queen)
-
-- 🌱 Actualmente estoy aprendiendo [Burguer Queen](https://github.com/anngelicafernanda/SCL020-burger-queen)
+- 🌱 Actualmente estoy aprendiendo [React](https://es.reactjs.org)
 
 - 📄 Conozca mis experiencias [https://www.linkedin.com/in/ang-contreras](https://www.linkedin.com/in/ang-contreras)
 
-- ⚡ Dato curioso [Amo el arte y observar las estrellas](Amo el arte y observar las estrellas)
+- ⚡ Dato curioso amo el arte y observar las estrellas
 
 - 📫 Cómo llegar a mí **contrerasangelica.f@gmail.com**
 
