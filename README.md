@@ -15,7 +15,7 @@
 
 - 📄 Conozca mis experiencias [https://www.linkedin.com/in/ang-contreras](https://www.linkedin.com/in/ang-contreras)
 
-- ⚡ Dato curioso amo el arte y observar las estrellas
+- ⚡ Dato curioso amo el arte
 
 - 📫 Cómo llegar a mí **devanngelc@gmail.com**
 
