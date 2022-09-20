@@ -17,7 +17,7 @@
 
 - ⚡ Dato curioso amo el arte y observar las estrellas
 
-- 📫 Cómo llegar a mí **contrerasangelica.f@gmail.com**
+- 📫 Cómo llegar a mí **devanngelc@gmail.com**
 
 - 👨‍💻 Todos mis proyectos están disponibles en **https://github.com/anngelicafernanda**
 
